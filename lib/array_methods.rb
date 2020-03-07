@@ -4,7 +4,7 @@ count = 0
     if array[count] == value_to_find
     return count
   end
-  count += 1
+  count += 1 
   nil 
  end
 end 
